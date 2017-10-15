@@ -1,4 +1,3 @@
-
 h1{ 
 	font-family: "tempus sans itc",serif;
 	font-size: 30px;
@@ -12,4 +11,7 @@ h1{
 	margins: 10px;
 	float: right;
 	clear: both;
+}
+a{
+	font-color:#8000FF
 }
