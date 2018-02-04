@@ -2,6 +2,7 @@ ul{
 	font-family: "Comic Sans MS",serif;
 	font-size: 30px;
 	font-style: italic;
+	overflow: hidden;
 	color: #FFFFFF;
 	padding: 10px;
 	margins: 10px;
