@@ -2,7 +2,7 @@ h1{
 	font-family: "tempus sans itc",serif;
 	font-size: 30px;
 	font-style: italic;
-	color: #FFFFFF;
+	color: white;
 	padding: 10px;
 	overflow: hidden;
 	margins: 10px;
@@ -16,12 +16,10 @@ ul {
 li {
     display: inline;
 }
-a{
-	color:#FFFFFF;
-	
+a {
+	color: white;	
 }
 body {
 	font-family: "tempus sans itc",serif;
-	color: #FFFFFF
-	
+	color: white;	
 }
