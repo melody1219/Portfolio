@@ -43,3 +43,8 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
