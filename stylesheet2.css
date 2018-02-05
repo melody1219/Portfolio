@@ -47,4 +47,7 @@ ul {
     top: 0;
     width: 100%;
 }
+.active {
+    background-color: #01EFFB;
+}
 
