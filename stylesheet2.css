@@ -1,10 +1,9 @@
-h1 { 
+h1{ 
 	font-family: "tempus sans itc",serif;
 	font-size: 30px;
 	font-style: italic;
-	color: white;
+	color: #FFFFFF;
 	padding: 10px;
-	overflow: hidden;
 	margins: 10px;
 	clear: both;
 }
@@ -16,12 +15,14 @@ ul {
 li {
     display: inline;
 }
-a {
-	color: white;	
+a{
+	color:#FFFFFF;
+	
 }
 body {
 	font-family: "tempus sans itc",serif;
-	color: white;	
+	color: #FFFFFF
+	
 }
 ul {
     list-style-type: none;
