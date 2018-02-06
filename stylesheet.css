@@ -7,6 +7,12 @@ h1{
 	margins: 20px;
 	clear: both;
 }
+h1{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
 ul {
     list-style-type: none;
     margin: 0;
