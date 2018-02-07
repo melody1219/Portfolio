@@ -51,14 +51,8 @@ li a {
 }
 ul {
     position: fixed;
-    top: 0;
     width: 100%;
 }
 .active {
     background-color: #01EFFB;
-}
-ul {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
