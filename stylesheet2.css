@@ -51,4 +51,9 @@ ul {
 .active {
     background-color: #01EFFB;
 }
+ul {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
