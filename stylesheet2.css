@@ -64,4 +64,28 @@ ul {
 li a {
     color: #666;
 }
+.fa-home { 
+	color: #00FFF5;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li {
+	display: inline;
+	float: left;
+}
+li a {
+	color: white;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a: hover {
+	background-color: #111;
+}
 
