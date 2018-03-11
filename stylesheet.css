@@ -1,11 +1,30 @@
 .fa-home { 
 	color: black;
+	font-size: 90px;
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+li {
+	display: inline;
+	float: left;
+}
+li a {
+	color: black;
 	display: block;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
-h1{ 
+li a: hover {
+	background-color: pink;
+}
+h1 { 
 	font-family: "tempus sans itc",serif;
 	font-size: 30px;
 	font-style: italic;
@@ -13,60 +32,12 @@ h1{
 	padding: 15px;
 	margins: 20px;
 	clear: both;
-}
-h1{
-    border-top-style: dotted;
-    border-right-style: solid;
-    border-bottom-style: dotted;
-    border-left-style: solid;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-li {
-    display: inline;
-}
-a{
-	color:#FFFFFF;
-	
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dotted;
+	border-left-style: solid;
 }
 body {
 	font-family: "tempus sans itc",serif;
-	color: #FFFFFF
-	
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-ul {
-    position: fixed;
-    width: 100%;
-}
-.active {
-    background-color: #01EFFB;
-}
-ul {
-	border: 1 px solid #e7e7e7;
-	background-color: #f3f3f3;
-}
-li a {
-	color: #666;
+	color: #FFFFFF;
 }
